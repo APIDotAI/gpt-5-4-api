@@ -2,7 +2,7 @@
 
 GPT 5.4 API examples with APIDot: cURL, Node.js, request fields, responses, and production notes.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/gpt-5-4) | [Model Page](https://apidot.ai/models/gpt-5-4) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/gpt-5-4) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/gpt-5-4) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## Why this repo exists
 
